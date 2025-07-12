@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: praveen22233/cycle:latest
+        image: vijayarangan2002/my-webserver:latest
         ports:
         - containerPort: 80
